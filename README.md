@@ -5,5 +5,6 @@
 
 "New addition made"
 "UI/UX and frontend- Veenu"
-"-Praveen"
+"-Praveen: will do webscraping"
 "-Ayush" 
+
